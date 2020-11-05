@@ -1,0 +1,9 @@
+.Coin{
+  width: 100%;
+  display: flex;
+  flex-direction: column;  
+}
+
+.Coin.down{
+    
+}
